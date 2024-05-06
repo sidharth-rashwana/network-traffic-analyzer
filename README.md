@@ -28,6 +28,6 @@ To view the demonstration follow the link :
 
 <a href="https://drive.google.com/file/d/1GDx9wh5ckx71WxwCbW4b5E2tKNbR37DG/view?usp=drive_link"> Demo Link</a>
 
-Note:
+**Note**  
 
 I've written network traffic analyzer in golang(using goroutines) and MySQL support for storing pkts. Golang is compiled time language so it will be much faster than python.
